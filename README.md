@@ -1,4 +1,4 @@
-# Beeple-interne-app-backend
+# BAP-backend
 
 ## How to install and start
 * Clone this repository 
